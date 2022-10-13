@@ -9,3 +9,8 @@ var num = 2;
 var any = true;
 any = "string";
 console.log(any);
+//readonly
+var readonly = ["data1", "data2"];
+//tuples
+var ourTuples;
+ourTuples = [5, "data", "anotherData"];
